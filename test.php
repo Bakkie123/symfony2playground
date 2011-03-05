@@ -4,5 +4,5 @@
  * and open the template in the editor.
  */
 
-echo 'foobar'
+echo 'foobar is cool'
 ?>
