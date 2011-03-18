@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Users/jhermans/www/symfony2playground/Symfony/src/Acme/DemoBundle/Resources/config/services.xml</file>
+        <file>file:/Users/jhermans/www/symfony2playground/Symfony/src/Acme/DemoBundle/Resources/public/css/demo.css</file>
+        <file>file:/Users/jhermans/www/symfony2playground/Symfony/src/Acme/DemoBundle/Resources/views/Demo/hello.html.twig</file>
+        <file>file:/Users/jhermans/www/symfony2playground/Symfony/src/Acme/DemoBundle/ControllerListener.php</file>
+    </open-files>
+</project-private>

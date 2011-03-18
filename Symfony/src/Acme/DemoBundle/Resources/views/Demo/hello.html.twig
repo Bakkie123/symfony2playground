@@ -1,11 +1,17 @@
 {% extends "AcmeDemoBundle::layout.html.twig" %}
-
 {% block content %}
     {{ parent() }}
 
     <p>
-        Hello {{ name }}!
+        Hello Big {{ name }}!
     </p>
+
+    {# array('user' => array('name' => 'Fabien')) #}
+    {{ user.name }}
+
+
+
+
 {% endblock %}
 
 {% set code = code(_self) %}
